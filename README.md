@@ -1,6 +1,6 @@
 # Personal Developer Portfolio
 
-This is my personal developer portfolio website — built to showcase my skills, projects, resume, and social links.
+This is my personal developer portfolio website — built to showcase my skills, projects, resume,internships and social links.
 
 ## 🧑‍💻 About Me
 
